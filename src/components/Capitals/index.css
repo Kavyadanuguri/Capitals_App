@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container1 {
+  background-color: white;
+  width: 35vw;
+  height: 45vh;
+  border-radius: 10px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.con1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+.button {
+  width: 150px;
+  height: 40px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+
+.passage {
+  font-size: 1vw;
+  margin: 10px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.para {
+  font-size: 23px;
+  margin-top: 40px;
+  color: black;
+  font-weight: bold;
+  font-family: 'roboto';
+}
